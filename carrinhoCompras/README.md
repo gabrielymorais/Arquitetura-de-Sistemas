@@ -117,7 +117,9 @@ Bem-vindo à API do Carrinho de Compras! Esta API permite gerenciar itens em um 
         "detail": "Item não encontrado no carrinho."
     }
     ```
+## 📄 Documentação no Postman
 
+Para mais detalhes sobre como utilizar a API, acesse a [documentação do Postman](https://encurtador.com.br/SDVok).
 ## 🛠 Tecnologias Utilizadas
 
 - **FastAPI** - Framework para construção de APIs.
